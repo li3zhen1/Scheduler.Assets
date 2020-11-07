@@ -5,7 +5,11 @@
 See  [microsoft/fluentui-system-icons: Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. (github.com)](https://github.com/microsoft/fluentui-system-icons) 
 
 
+## Fontface
 
+See  [Inter font family (rsms.me)](https://rsms.me/inter/)
+[Jetbrains Mono](https://www.jetbrains.com/zh-cn/lp/mono/)
+[OpenType Feature Freezer](https://twardoch.github.io/fonttools-opentype-feature-freezer/)
 
 
 ## Colors
@@ -80,7 +84,3 @@ See  [microsoft/fluentui-system-icons: Fluent System Icons are a collection of f
 ```
 
 
-
-## Fontface
-
-See  [Inter font family (rsms.me)](https://rsms.me/inter/) 
